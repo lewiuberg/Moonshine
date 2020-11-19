@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 if sys.version_info < (3, 8):
     raise Exception('Only Python 3.8+ is supported')
 
-setup(name='import_from_github_com',
+setup(name='moonshine',
       version='0.1',
       description="Python module finder/loader from github, like in golang",
       author='Lewi Uberg',
