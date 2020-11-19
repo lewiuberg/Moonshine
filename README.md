@@ -1,4 +1,8 @@
-# Useful Snippets <!-- omit in toc -->
+# Moonshine <!-- omit in toc -->
+
+Homemade for daily use :)
+
+## Useful Snippets <!-- omit in toc -->
 
 If I have not provided a reference I have either made the function, or taken it straight from the documentation of the given library in use.
 
